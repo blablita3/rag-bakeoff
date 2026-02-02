@@ -66,7 +66,7 @@ Running the program will rewritte the `/current` directory with the obtained res
 
 ## 🎓 Acknowledgments
 
-This project was part of the *Conurso de Modelización de Problemas de Empresa*, an event organised in the [*Facultad de Ciencias Matemáticas, UCM*](https://matematicas.ucm.es/). The [problem statement](./problem_proposal.pdf) was proposed by the enterprise [*Management Solutions*](https://www.managementsolutions.com/). 
+This project was part of the *Conurso de Modelización de Problemas de Empresa*, an event organised in the [*Facultad de Ciencias Matemáticas, UCM*](https://matematicas.ucm.es/). The [problem proposal](./problem_proposal.pdf) was given by the enterprise [*Management Solutions*](https://www.managementsolutions.com/). 
 
 **Author**: *Ángel Valencia*
 
