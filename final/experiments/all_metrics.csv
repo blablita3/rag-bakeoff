@@ -1,0 +1,9 @@
+chunking_method,retrieval_method,num_runs,num_questions,answer_accuracy,source_accuracy,coverage,answer_std,source_std,avg_latency
+recursive,baseline,5,70,0.66,0.0,0.84,0.0,0.0,0.5
+recursive,bm25,5,70,0.89,0.88,0.96,0.0,0.0,0.5
+recursive,dense,5,70,0.87,0.72,0.93,0.0,0.0,0.6
+recursive,hybrid,5,70,0.91,0.88,0.96,0.0,0.0,0.62
+paragraph,baseline,5,70,0.66,0.0,0.84,0.0,0.0,0.46
+paragraph,bm25,5,70,0.94,0.76,0.97,0.0,0.0,0.59
+paragraph,dense,5,70,0.81,0.58,0.89,0.0,0.0,0.58
+paragraph,hybrid,5,70,0.91,0.73,0.96,0.0,0.0,0.61

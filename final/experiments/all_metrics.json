@@ -1,0 +1,98 @@
+[
+  {
+    "chunking_method": "recursive",
+    "retrieval_method": "baseline",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.66,
+    "source_accuracy": 0.0,
+    "coverage": 0.84,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.5
+  },
+  {
+    "chunking_method": "recursive",
+    "retrieval_method": "bm25",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.89,
+    "source_accuracy": 0.88,
+    "coverage": 0.96,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.5
+  },
+  {
+    "chunking_method": "recursive",
+    "retrieval_method": "dense",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.87,
+    "source_accuracy": 0.72,
+    "coverage": 0.93,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.6
+  },
+  {
+    "chunking_method": "recursive",
+    "retrieval_method": "hybrid",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.91,
+    "source_accuracy": 0.88,
+    "coverage": 0.96,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.62
+  },
+  {
+    "chunking_method": "paragraph",
+    "retrieval_method": "baseline",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.66,
+    "source_accuracy": 0.0,
+    "coverage": 0.84,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.46
+  },
+  {
+    "chunking_method": "paragraph",
+    "retrieval_method": "bm25",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.94,
+    "source_accuracy": 0.76,
+    "coverage": 0.97,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.59
+  },
+  {
+    "chunking_method": "paragraph",
+    "retrieval_method": "dense",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.81,
+    "source_accuracy": 0.58,
+    "coverage": 0.89,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.58
+  },
+  {
+    "chunking_method": "paragraph",
+    "retrieval_method": "hybrid",
+    "num_runs": 5,
+    "num_questions": 70,
+    "answer_accuracy": 0.91,
+    "source_accuracy": 0.73,
+    "coverage": 0.96,
+    "answer_std": 0.0,
+    "source_std": 0.0,
+    "avg_latency": 0.61
+  }
+]

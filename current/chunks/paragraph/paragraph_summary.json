@@ -1,0 +1,19 @@
+{
+  "method": "paragraph",
+  "num_chunks": 143,
+  "avg_length": 788.4615384615385,
+  "min_length": 110,
+  "max_length": 1999,
+  "lengths_examples": [
+    256,
+    1249,
+    587,
+    381,
+    1992,
+    1996,
+    1721,
+    1769,
+    336,
+    919
+  ]
+}

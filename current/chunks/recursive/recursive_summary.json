@@ -1,0 +1,19 @@
+{
+  "method": "recursive",
+  "num_chunks": 131,
+  "avg_length": 952.0610687022901,
+  "min_length": 368,
+  "max_length": 999,
+  "lengths_examples": [
+    997,
+    964,
+    971,
+    939,
+    907,
+    900,
+    922,
+    899,
+    946,
+    933
+  ]
+}

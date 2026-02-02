@@ -1,0 +1,17 @@
+langchain_text_splitters
+langchain_core
+langchain_chroma
+langchain_google_genai
+langchain_huggingface
+langchain_community
+sentence-transformers
+rank_bm25
+bs4
+lxml
+PyPDF2
+tqdm
+numpy
+pandas
+matplotlib
+seaborn
+nltk
